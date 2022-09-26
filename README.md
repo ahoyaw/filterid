@@ -1,5 +1,5 @@
 # filterid
-Bromite custom ad block filter list based on [xarantolus/filtrite](https://github.com/xarantolus/filtrite)
+Bromite custom adblock for Indonesia based on [xarantolus/filtrite](https://github.com/xarantolus/filtrite)
 >This personal project will be tested and patched as long as I'm still using it
 
 ## filterid result test
