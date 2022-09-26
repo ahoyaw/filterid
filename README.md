@@ -9,7 +9,7 @@ Bromite custom ad block filter list based on [xarantolus/filtrite](https://githu
 # Filters URL
 | Variant | Source  |
 | ------ | ------|
-[filterid](https://github.com/ahoyaw/filterid/releases/latest/download/filterid.dat) | Contains a list of [ABP anti-circumvention filter list](https://github.com/abp-filters/abp-filters-anti-cv), [ABPindo](https://github.com/ABPindo/indonesianadblockrules), [AdGuard Base filter + EasyList](https://github.com/AdguardTeam/AdGuardFilters), [Combined Privacy Block Lists](https://github.com/bongochong/CombinedPrivacyBlockLists), and filterid extra
+[filterid](https://github.com/ahoyaw/filterid/releases/latest/download/filterid.dat) | Contains a list of [ABP anti-circumvention filter list](https://github.com/abp-filters/abp-filters-anti-cv), [AdBlockID](https://github.com/realodix/AdBlockID), [AdGuard Base filter + EasyList](https://github.com/AdguardTeam/AdGuardFilters), [Combined Privacy Block Lists](https://github.com/bongochong/CombinedPrivacyBlockLists), and [filterid extra](https://github.com/ahoyaw/filterid)
 [filterid less](https://github.com/ahoyaw/filterid/releases/latest/download/filterid_less.dat) | Similar to above, but adjusted to be lighter and still more useful |
 
 Note: [filterid](https://github.com/ahoyaw/filterid) variant is scheduled to be updated at 05:00 UTC+7
