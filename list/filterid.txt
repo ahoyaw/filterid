@@ -2,7 +2,7 @@
 https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt
 
 # AdBlockID
-https://raw.githubusercontent.com/realodix/AdBlockID/master/output/adblockid_plus.txt
+https://github.com/realodix/AdBlockID/raw/master/output/adblockid_plus.txt
 
 # AdGuard Base filter + EasyList
 https://filters.adtidy.org/extension/ublock/filters/2.txt
