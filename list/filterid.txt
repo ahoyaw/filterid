@@ -1,4 +1,4 @@
-# ABP anti-circumvention
+# ABP anti-circumvention filter list
 https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt
 
 # AdBlockID
