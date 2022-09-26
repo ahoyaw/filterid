@@ -23,6 +23,3 @@ How to use:
 5. Close the **Bromite** browser via the **Exit** button.
 6. Open **Bromite** browser.
 7. Turn on AdBlock.
-
-# License
-filterid is licensed under the [MIT License](https://github.com/ahoyaw/filterid/blob/main/LICENSE)
