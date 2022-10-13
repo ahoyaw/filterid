@@ -3,8 +3,6 @@ https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt
 
 # Try
 https://raw.githubusercontent.com/Ewpratten/youtube_ad_blocklist/master/blocklist.txt
-https://raw.githubusercontent.com/LaurentFough/pihole-youtube-adblock/master/pihole-youtube-adblock.txt
-https://raw.githubusercontent.com/Rafaelrico77/piholeyt/master/youtubeadblock.
 https://blocklistproject.github.io/Lists/youtube.txt
 https://framagit.org/PoorPocketsMcNewHold/no-google/raw/master/categories/youtube.txt
 https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-YouTube-AdBlock-Filter.txt
