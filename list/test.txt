@@ -10,8 +10,4 @@ https://easylist.to/easylist/easyprivacy.txt
 # EasyList
 https://easylist.to/easylist/easylist.txt
 
-# AdGuard Annoyances filter
-https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt
-
-# AdGuard Base filter
-https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt
+https://pgl.yoyo.org/adservers/iplist.php?ipformat=peerblock&showintro=0&mimetype=plaintext
