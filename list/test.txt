@@ -6,3 +6,6 @@ https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscrip
 
 # EasyPrivacy
 https://easylist.to/easylist/easyprivacy.txt
+
+# EasyList
+https://easylist.to/easylist/easylist.txt
