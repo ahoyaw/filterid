@@ -5,7 +5,7 @@ Bromite custom ad block filter list for Indonesia, based on [xarantolus/filtrite
 # Filters URL
 | Variant | Source  |
 | ------ | ------|
-[filterid](https://github.com/ahoyaw/filterid/releases/latest/download/filterid.dat) | Contains a list of [ABP anti-circumvention filter list](https://github.com/abp-filters/abp-filters-anti-cv), [AdBlockID](https://github.com/realodix/AdBlockID), and [Combined Privacy Block Lists](https://github.com/bongochong/CombinedPrivacyBlockLists)
+[filterid](https://github.com/ahoyaw/filterid/releases/latest/download/filterid.dat) | Contains a list of [ABP anti-circumvention filter list](https://github.com/abp-filters/abp-filters-anti-cv), [ABPindo](https://github.com/ABPindo/indonesianadblockrules), [Combined Privacy Block Lists](https://github.com/bongochong/CombinedPrivacyBlockLists), and [EasyPrivacy](https://easylist.to)
 
 Note: [filterid](https://github.com/ahoyaw/filterid) variant is scheduled to be updated at 05:00 UTC+7
 
