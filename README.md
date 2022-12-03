@@ -13,8 +13,8 @@ Note: [filterid](https://github.com/ahoyaw/filterid) variant is scheduled to be 
 How to use:
 1. Copy link in **[Variant](https://github.com/ahoyaw/filterid#filters-url)** section box.
 2. In the **Bromite** browser, go to **AdBlock settings**
-3. Paste copied link into **Filters URL** in **Bromite** browser.
-4. Turn off AdBlock.
+3. Turn off AdBlock.
+4. Paste copied link into **Filters URL** in **Bromite** browser.
 5. Close the **Bromite** browser via the **Exit** button.
 6. Open **Bromite** browser.
 7. Turn on AdBlock.
