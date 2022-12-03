@@ -1,2 +1,2 @@
-# AdGuard Base filter + EasyList
-https://filters.adtidy.org/extension/ublock/filters/2.txt
+# uBlock₀ filters – Privacy
+https://github.com/uBlockOrigin/uAssets/raw/master/filters/privacy.txt
