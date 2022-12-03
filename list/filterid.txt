@@ -6,6 +6,3 @@ https://github.com/realodix/AdBlockID/raw/master/output/adblockid_plus.txt
 
 # Combined Privacy Block Lists
 https://github.com/bongochong/CombinedPrivacyBlockLists/raw/master/cpbl-abp-list.txt
-
-# filterid extra
-https://github.com/ahoyaw/filterid/raw/main/extra.txt
