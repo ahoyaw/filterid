@@ -1,8 +1,8 @@
 # ABP anti-circumvention filter list
 https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt
 
-# AdBlockID
-https://raw.githubusercontent.com/realodix/AdBlockID/master/output/adblockid.txt
+# ABPindo
+https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt
 
 # Combined Privacy Block Lists
 https://github.com/bongochong/CombinedPrivacyBlockLists/raw/master/cpbl-abp-list.txt
