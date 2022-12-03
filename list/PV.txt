@@ -1,0 +1,3 @@
+# AdBlockID
+https://github.com/realodix/AdBlockID/raw/master/output/adblockid_plus.txt
+
