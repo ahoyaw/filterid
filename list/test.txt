@@ -1,2 +1,2 @@
-# EasyPrivacy
-https://easylist.to/easylist/easyprivacy.txt
+# Fanboy Enhanced Trackers List
+https://fanboy.co.nz/enhancedstats.txt
