@@ -3,3 +3,6 @@ https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt
 
 # ABPindo
 https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt
+
+# Combined Privacy Block Lists
+https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/cpbl-abp-list.txt
