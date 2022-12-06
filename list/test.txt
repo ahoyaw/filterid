@@ -1,0 +1,11 @@
+# ABP anti-circumvention filter list
+https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt
+
+# ABPindo
+https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt
+
+# AdGuard Base filter + EasyList
+https://filters.adtidy.org/extension/ublock/filters/2.txt
+
+# EasyPrivacy
+https://easylist.to/easylist/easyprivacy.txt
