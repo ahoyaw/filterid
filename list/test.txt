@@ -1,1 +1,2 @@
+# uBlock Origin
 https://github.com/uBlockOrigin/uAssets/raw/master/filters/filters.txt
