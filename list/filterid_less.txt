@@ -6,6 +6,3 @@ https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscrip
 
 # AdGuard Base filter + EasyList
 https://filters.adtidy.org/extension/ublock/filters/2.txt
-
-# EasyPrivacy
-https://easylist.to/easylist/easyprivacy.txt
