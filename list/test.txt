@@ -1,2 +1,1 @@
-https://easylist.to/easylist/easylist.txt
-https://github.com/abp-filters/abp-filters-anti-cv/raw/master/mobile-anti-cv.txt
+https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt
