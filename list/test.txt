@@ -1,2 +1,1 @@
-# uBlock Origin
-https://github.com/uBlockOrigin/uAssets/raw/master/filters/filters.txt
+https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt
