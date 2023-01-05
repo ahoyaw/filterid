@@ -9,3 +9,6 @@ https://filters.adtidy.org/extension/ublock/filters/2.txt
 
 # EasyPrivacy
 https://easylist.to/easylist/easyprivacy.txt
+
+# Fanboy Annoyances List
+https://secure.fanboy.co.nz/fanboy-annoyance.txt
